@@ -1,6 +1,6 @@
 {
   "name": "tea-number-is-even",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo Tea app",
   "main": "index.js",
   "scripts": {

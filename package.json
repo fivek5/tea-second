@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/fivek5/tea-second.git"
   },
+  "dependencies": {
+    "tea-sort-app": "1.0.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
